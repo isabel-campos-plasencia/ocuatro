@@ -1,3 +1,3 @@
 # ocuatro
 
-This is a simple test
+Source code for O(4) sigma model in dimension = 4
